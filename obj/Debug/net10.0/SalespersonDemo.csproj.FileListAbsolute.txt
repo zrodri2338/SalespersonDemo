@@ -1,0 +1,15 @@
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\bin\Debug\net10.0\SalespersonDemo.exe
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\bin\Debug\net10.0\SalespersonDemo.deps.json
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\bin\Debug\net10.0\SalespersonDemo.runtimeconfig.json
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\bin\Debug\net10.0\SalespersonDemo.dll
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\bin\Debug\net10.0\SalespersonDemo.pdb
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\obj\Debug\net10.0\SalespersonDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\obj\Debug\net10.0\SalespersonDemo.AssemblyInfoInputs.cache
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\obj\Debug\net10.0\SalespersonDemo.AssemblyInfo.cs
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\obj\Debug\net10.0\SalespersonDemo.csproj.CoreCompileInputs.cache
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\obj\Debug\net10.0\SalespersonDemo.sourcelink.json
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\obj\Debug\net10.0\SalespersonDemo.dll
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\obj\Debug\net10.0\refint\SalespersonDemo.dll
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\obj\Debug\net10.0\SalespersonDemo.pdb
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\obj\Debug\net10.0\SalespersonDemo.genruntimeconfig.cache
+C:\Users\zcru3\OneDrive\Desktop\SalespersonDemo\SalespersonDemo\obj\Debug\net10.0\ref\SalespersonDemo.dll
